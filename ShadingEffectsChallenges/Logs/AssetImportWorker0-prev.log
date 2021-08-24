@@ -1,0 +1,211 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.10f1 (297d780c91bc) revision 2719096'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1110; Version 2009; 64bit' Language: 'pt' Physical Memory: 32629 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Program Files\2020.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Users/Jonat/Documents/GitHub/ShadingEffectsChallenges/Shading&EffectsChallenges
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56438
+Successfully changed project path to: D:/Users/Jonat/Documents/GitHub/ShadingEffectsChallenges/Shading&EffectsChallenges
+D:/Users/Jonat/Documents/GitHub/ShadingEffectsChallenges/Shading&EffectsChallenges
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 38.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path D:/Program Files/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Users/Jonat/Documents/GitHub/ShadingEffectsChallenges/Shading&EffectsChallenges/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 980 (ID=0x13c0)
+    Vendor:   
+    VRAM:     3952 MB
+    Driver:   30.0.14.7141
+Initialize mono
+Mono path[0] = 'D:/Program Files/2020.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56080
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.3.10f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: D:/Program Files/2020.3.10f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.012415 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 29.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.538 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.015230 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.380 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.28 seconds
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.1 MB.
+System memory in use after: 65.1 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1819.
+Total: 2.756700 ms (FindLiveObjects: 0.170300 ms CreateObjectMapping: 0.087600 ms MarkObjects: 2.357200 ms  DeleteObjects: 0.140200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.007679 seconds
+  Import took 0.009967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.180630 seconds.
+  path: Assets/Shaders
+  artifactKey: Guid(e34be4d852376744bb73b8bf6130ff20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders using Guid(e34be4d852376744bb73b8bf6130ff20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bebcca0b5ae07f839fc31c94282eb1d6') in 0.005742 seconds
+  Import took 0.009532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.184905 seconds.
+  path: Assets/Shaders/Lambert.shader
+  artifactKey: Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Lambert.shader using Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '119c6d58ed70ac6a9fb892325b107227') in 0.059496 seconds
+  Import took 0.062025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.065498 seconds.
+  path: Assets/Shaders/Lambert.shader
+  artifactKey: Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Lambert.shader using Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '119c6d58ed70ac6a9fb892325b107227') in 0.006238 seconds
+  Import took 0.010712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 258.130581 seconds.
+  path: Assets/Shaders/Lambert.shader
+  artifactKey: Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Lambert.shader using Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf939de119bb6488cae75be69706677b') in 0.007008 seconds
+  Import took 0.010239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.767682 seconds.
+  path: Assets/Shaders/Lambert.shader
+  artifactKey: Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Lambert.shader using Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83580ec26b2257edde919fe56c5cbc76') in 0.011359 seconds
+  Import took 0.015311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 406.701503 seconds.
+  path: Assets/Shaders/Lambert.shader
+  artifactKey: Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Lambert.shader using Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3292521d9b496c8a070d920f75572aac') in 0.007894 seconds
+  Import took 0.011604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.474539 seconds.
+  path: Assets/Shaders/MaterialTest.mat
+  artifactKey: Guid(ad019cc372cbd4244bbe8abe3db3a125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/MaterialTest.mat using Guid(ad019cc372cbd4244bbe8abe3db3a125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31de9bfdc61564b7ed54f12531ff61cd') in 0.114766 seconds
+  Import took 0.117401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.893050 seconds.
+  path: Assets/Shaders/Lambert.shader
+  artifactKey: Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Lambert.shader using Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eb883879cddb116194038763800608d') in 0.008103 seconds
+  Import took 0.012608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.418119 seconds.
+  path: Assets/Shaders/Lambert.shader
+  artifactKey: Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Lambert.shader using Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '487d51cb2a0dd41262701a2b06f5d706') in 0.007525 seconds
+  Import took 0.011055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.914508 seconds.
+  path: Assets/Shaders/Lambert.shader
+  artifactKey: Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Lambert.shader using Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a7ca474a005b69d53343dd3b4c89347') in 0.008120 seconds
+  Import took 0.011364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 159.087785 seconds.
+  path: Assets/Shaders/Lambert.shader
+  artifactKey: Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Lambert.shader using Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20baf8c6a4b4c1b763b7f9148680165b') in 0.008651 seconds
+  Import took 0.012069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.883921 seconds.
+  path: Assets/Shaders/Lambert.shader
+  artifactKey: Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Lambert.shader using Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f62e182eccaa2b9f2b9a9f0900cfff5') in 0.011556 seconds
+  Import took 0.015538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.906194 seconds.
+  path: Assets/Shaders/Lambert.shader
+  artifactKey: Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Lambert.shader using Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fa01494d4cae91d5ba756a6378c6b38') in 0.009071 seconds
+  Import took 0.013483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.091188 seconds.
+  path: Assets/Shaders/Lambert.shader
+  artifactKey: Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Lambert.shader using Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '966e699e7a94f60dd99eb9f07a1894fa') in 0.009116 seconds
+  Import took 0.012554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.947137 seconds.
+  path: Assets/Shaders/Lambert.shader
+  artifactKey: Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Lambert.shader using Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c293f8952a1c9277c7fd65ac205250a') in 0.008976 seconds
+  Import took 0.012825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.966628 seconds.
+  path: Assets/Shaders/Lambert.shader
+  artifactKey: Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Lambert.shader using Guid(304d0a92cfcf58543a9dd9d343e4d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2a5be018aecf4eb2e90880ae6c96b66') in 0.008955 seconds
+  Import took 0.012958 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
